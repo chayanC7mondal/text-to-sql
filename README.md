@@ -136,12 +136,4 @@ Health check with ML pipeline status
 ### GET /api/v1/metrics
 System metrics and model performance
 
-## For ML Engineers
 
-This project demonstrates:
-- Production ML pipeline design
-- Model ensemble and A/B testing
-- Feature engineering for structured data
-- Continuous learning systems
-- Observability for ML models
-- MLops best practices with MLflow
